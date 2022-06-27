@@ -1,2 +1,2 @@
 1) docker build -t "assessment" .
-2) docker container run -dt --name "Assesment image" -p 3111:80 "Image name" or " Image I'd "
+2) docker container run -dt --name "Assesment image" -p 3111:8080 "Image name" or " Image I'd "
